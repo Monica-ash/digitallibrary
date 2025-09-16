@@ -16,7 +16,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [P8](ebook/P8.pdf) - Monica (2025)
 11. [P9](ebook/P9.pdf) - Monica (2025)
 12. [P10](ebook/P10.pdf) - Monica (2025)
-13. [halaman1.html](webti/halaman1.html) - Monica (2025)
+13. [Halaman1](webti/halaman1.html) - Monica (2025)
 ---
 
 *Powered by GitHub Pages*
